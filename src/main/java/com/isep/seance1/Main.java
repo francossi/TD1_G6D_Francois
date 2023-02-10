@@ -1,3 +1,6 @@
+package com.isep.seance1;
+
+import java.util.Scanner;
 
 public class Main {
     public void main(String[] args) {
